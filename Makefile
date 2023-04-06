@@ -1,4 +1,4 @@
-CPP = g++-12
+CPP = g++
 FLAGS = -std=c++17 -Wall -Wextra -pthread
 
 grp: main.cpp
